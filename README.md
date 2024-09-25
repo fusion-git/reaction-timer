@@ -1,5 +1,5 @@
 # reaction-timer
-If you don't have node in your machine (https://nodejs.org/en). Version used for this project 20.17.0 LTS.
+If you don't have node in your machine [Node Js](https://nodejs.org/en). Version used for this project 20.17.0 LTS.
 
 Open terminal in root folder and run 'npm install'. This command will download all necessary files for this project.
 
