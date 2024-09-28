@@ -1,4 +1,4 @@
-# Project title
+# Reaction timer
 
 This project run in a Node enviroment, if you don't have already insalled on your machine [Node Js](https://nodejs.org/en). Version used for this project 20.17.0 LTS. <br /> <br /> 
 
