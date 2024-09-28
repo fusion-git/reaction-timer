@@ -19,4 +19,4 @@ npm run serve
 npm run build
 ```
 
-![imgage alt](image url)
+![imgage alt](https://github.com/fusion-git/reaction-timer/blob/cf28ea6b9260743573af2bdb305fb0686603cf8d/Screenshot.png)
